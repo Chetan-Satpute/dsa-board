@@ -2,3 +2,7 @@
 	path = app
 	url = git@github.com:Chetan-Satpute/dsa-board-app.git
 	branch = main
+[submodule "server"]
+	path = server
+	url = git@github.com:Chetan-Satpute/dsa-board-server.git
+	branch = main
